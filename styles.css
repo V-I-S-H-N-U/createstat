@@ -28,7 +28,7 @@ body {
 .over{
     background: #121212;
     z-index: -2;
-    width: 100%;
+    width: 90%;
     border: 3px solid white;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
@@ -38,7 +38,7 @@ body {
     margin-top:100px;
     z-index: -2;
     background: white;
-    width:100%;
+    width:90%;
     height:35px;
     color: black;
     padding-left: 6px;
